@@ -1,30 +1,33 @@
-# Curry vs Lillard Shot Analysis (2023-24 Season)
+# Curry vs Lillard Shot Analysis (2023-24 NBA Season)
 
-This project is a comparative analysis of Stephen Curry and Damian Lillard's shot selection and efficiency during the 2023-24 NBA season. The analysis focuses on understanding their shooting tendencies, efficiency across different court zones, and provides visualizations for a deeper insight into their shot patterns.
+This project is a comparative analysis of **Stephen Curry** and **Damian Lillard's** shot selection and shooting efficiency during the **2023-24 NBA season**. By using the `nba_api` package, we extracted detailed shot data for both players, created visualizations, and analyzed their shooting tendencies across different areas of the court.
 
+## Project Overview
 
-## Installation
+The objective of this project is to:
+- Understand the shot distribution for Stephen Curry and Damian Lillard.
+- Analyze shooting efficiency in different court zones (near the rim, mid-range, and three-point range).
+- Provide insights into where each player is most and least effective on the court.
 
-To run this project, install the following:
-```bash
-pip install nba_api pandas matplotlib seaborn
-
+This analysis includes:
+- Shot charts (made vs. missed shots).
+- Heatmaps showing shot density.
+- Shooting percentage comparison across different zones.
 
 ## Data Sources
 
-The shot data for Stephen Curry and Damian Lillard was retrieved using the `nba_api`. The data is saved in two CSV files:
-- `curry_shot_data_2324.csv`
-- `lillard_shot_data_2324.csv`
+The shot data for Stephen Curry and Damian Lillard is retrieved using the **nba_api** package. The data represents shot attempts during the **2023-24 NBA regular season**.
 
-## Usage
+Files included:
+- `curry_shot_data_2324.csv`: Contains shot data for Stephen Curry.
+- `lillard_shot_data_2324.csv`: Contains shot data for Damian Lillard.
 
-Open the `CurryDamianAnalysis.ipynb` notebook and follow the cells to generate shot charts, heatmaps, and bar plots comparing Curry and Lillard's shot data.
+## Installation
 
+To run this project, you'll need to install the required Python packages. You can install the dependencies by running:
 
-## Conclusion
-
-This analysis highlights the shooting tendencies of two elite NBA players. Some of the key findings are:
-- Stephen Curry: Excelled in three-point range, particularly around the top of the key. His shooting efficiency from deep makes him a formidable threat.
-- Damian Lillard: While also proficient from three, Lillard has a more balanced shot distribution with higher efficiency near the rim.
+```bash
+pip install nba_api pandas matplotlib seaborn
+'''
 
 
