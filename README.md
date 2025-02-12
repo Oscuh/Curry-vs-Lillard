@@ -37,5 +37,22 @@ git clone https://github.com/Oscuh/Curry-vs-Lillard.git
 ```bash
 cd Curry-vs-Lillard
 ```
+3. **Installation**: Install the necessary Python packages by running the following command:
 
+```bash
+pip install nba_api pandas matplotlib seaborn
+```
+4. **Open Jupyter Notebook**: Launch Jupyter notebok to start analysis:
 
+```bash
+jupyter notebook CurryDamianAnalysis.ipynb
+```
+
+## Usage
+
+Run the cells to:
+  - Retrieve shot data for both Stephen Curry and Damian Lillard using the **nba_api**
+  - Generate visualizations including shot charts and heatmaps
+  - Compare shooting percentages from different court zones.
+
+# Key Analysis Sections: 
