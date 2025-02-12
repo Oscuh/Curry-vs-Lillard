@@ -32,7 +32,10 @@ To set up this project on your local machine, follow these steps:
 ```bash
 git clone https://github.com/Oscuh/Curry-vs-Lillard.git
 ```
+2. **Navigate to the project directory**: After cloning to repository, move into the project directory:
 
-
+```bash
+cd Curry-vs-Lillard
+```
 
 
