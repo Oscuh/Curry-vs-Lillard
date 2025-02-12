@@ -22,15 +22,16 @@ Files included:
 - `curry_shot_data_2324.csv`: Contains shot data for Stephen Curry.
 - `lillard_shot_data_2324.csv`: Contains shot data for Damian Lillard.
 
-## Installation
-
-To run this project, you'll need to install the required Python packages. You can install the dependencies by running:
-
-```bash
-pip install nba_api pandas matplotlib seaborn
-'''
 
 ## Project Setup
+
+To set up this project on your local machine, follow these steps: 
+
+1. **Clone the repository**: Clone the repository from GitHub to your local machine using the follow command:
+
+```bash
+git clone https://github.com/Oscuh/Curry-vs-Lillard.git
+```
 
 
 
