@@ -55,7 +55,7 @@ Run the cells to:
   - Generate visualizations including shot charts and heatmaps
   - Compare shooting percentages from different court zones.
 
-# Key Analysis Sections: 
+## Key Analysis Sections: 
 
 - **Shot Location Mapping** – Visualize where each player takes shots from, categorized by makes and misses
 - **Heatmaps** – Identify high-frequency shooting zones
