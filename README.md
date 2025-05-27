@@ -56,3 +56,12 @@ Run the cells to:
   - Compare shooting percentages from different court zones.
 
 # Key Analysis Sections: 
+
+- **Shot Location Mapping** – Visualize where each player takes shots from, categorized by makes and misses
+- **Heatmaps** – Identify high-frequency shooting zones
+- **Efficiency Breakdown** – Compare shooting percentages near the rim, mid-range, and beyond the arc
+- **Observations** – Discuss patterns and insights regarding each player’s offensive tendencies
+
+## Conclusion
+
+This project provides a side-by-side comparison of Stephen Curry and Damian Lillard's shot selection and efficiency during the 2023–24 NBA season. By visualizing shot data and analyzing shooting performance across different zones, we gained insights into each player's offensive tendencies and scoring strengths. While both players are elite shooters, the analysis highlights their differences in court usage, preferred shooting spots, and overall efficiency. This framework can be extended to other players, seasons, or used for team-level strategic analysis.
